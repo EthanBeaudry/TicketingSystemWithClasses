@@ -1,0 +1,24 @@
+2021-05-10 18:28:48.5365|INFO|TicketingSystem.Program|Program started
+2021-05-10 18:28:48.6062|ERROR|TicketingSystem.TicketFile|Input string was not in a correct format.
+2021-05-10 18:28:58.2172|INFO|TicketingSystem.Program|User choice: "1"
+2021-05-10 18:30:14.9465|ERROR|TicketingSystem.TicketFile|Sequence contains no elements
+2021-05-10 18:30:17.6588|INFO|TicketingSystem.Program|User choice: "2"
+2021-05-10 18:30:32.1683|INFO|TicketingSystem.Program|User choice: ""
+2021-05-10 18:30:32.1683|INFO|TicketingSystem.Program|Program ended
+2021-05-10 18:31:36.8800|INFO|TicketingSystem.Program|Program started
+2021-05-10 18:31:36.9187|ERROR|TicketingSystem.TicketFile|Input string was not in a correct format.
+2021-05-10 18:31:58.5296|INFO|TicketingSystem.Program|User choice: "1"
+2021-05-10 18:32:06.8911|ERROR|TicketingSystem.TicketFile|Sequence contains no elements
+2021-05-10 18:32:37.8201|INFO|TicketingSystem.Program|User choice: ""
+2021-05-10 18:32:37.8201|INFO|TicketingSystem.Program|Program ended
+2021-05-10 19:13:03.3676|INFO|TicketingSystem.Program|Program started
+2021-05-10 19:13:03.4177|ERROR|TicketingSystem.TicketFile|Input string was not in a correct format.
+2021-05-10 19:13:11.0598|INFO|TicketingSystem.Program|User choice: "1"
+2021-05-10 19:13:26.0918|ERROR|TicketingSystem.TicketFile|Sequence contains no elements
+2021-05-10 19:13:29.8251|INFO|TicketingSystem.Program|User choice: "3"
+2021-05-10 19:13:29.8251|INFO|TicketingSystem.Program|Program ended
+2021-05-10 19:13:39.3659|INFO|TicketingSystem.Program|Program started
+2021-05-10 19:13:39.4026|ERROR|TicketingSystem.TicketFile|Input string was not in a correct format.
+2021-05-10 19:13:43.2193|INFO|TicketingSystem.Program|User choice: "2"
+2021-05-10 19:20:48.3446|INFO|TicketingSystem.Program|User choice: ""
+2021-05-10 19:20:48.3446|INFO|TicketingSystem.Program|Program ended
